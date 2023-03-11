@@ -1,0 +1,13 @@
+.headerStyle {
+    background-color: #FD8A8A;
+    color: white;
+    height: 40px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 5px;
+}

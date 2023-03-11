@@ -1,0 +1,12 @@
+footer {
+    background-color: #FD8A8A;
+    color: white;
+    height: 25px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.footerText {
+    text-align: left;
+    font-size: 13px;
+}
